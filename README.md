@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Varun Kumar
+### Hi there 👋
+
+<h1 align="center">I'm Varun Kumar</h1>
+<h3 align="center">I'm an Associate Staff Engineer at Nagarro.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun03-nagarro&label=Profile%20views&color=0e75b6&style=flat" alt="Varun Kumar" /> </p>
+
+- 💻 6+ YoE • Full Stack Developer • Data Structures • JavaScript • Node.js • ReactJS • MongoDB • Magento 2
 - 👀 I’m interested in exploring what's new in tech
 - 🌱 I’m currently learning Spryker, Redis
 
